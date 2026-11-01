@@ -30,13 +30,12 @@ Here you learn to build real things with **Python, HTML, CSS and JavaScript**, s
 No pressure. No shame. Broken code is just code that is still learning. 🐛
 
 ```yaml
-dojo:
+GUILD:
   name: Bytez the Dust
   mission: Learn to code by building things
   languages: [Python, HTML, CSS, JavaScript]
   difficulty: Beginner -> Advanced
-  teacher: Deni Oliveira
-  mascot: A very confused rubber duck
+  teacher: Deni Castro : https://github.com/DeniCastro
 ```
 
 ## `02 // LEARNING_PATH`
@@ -118,18 +117,18 @@ Your branch is **your save file**. Next class, use the same nickname and continu
 ## `08 // DOJO_TERMINAL`
 
 ```bash
-student@dojo:~$ whoami
+student@guild:~$ whoami
 Future developer (in training)
 
-student@dojo:~$ cat motto.txt
+student@guild:~$ cat motto.txt
 Break things.
 Fix things.
 Understand why.
 
-student@dojo:~$ python --version
+student@doguild:~$ python --version
 Confidence: loading...
 
-student@dojo:~$ _
+student@guild:~$ _
 ```
 
 <div align="center">
