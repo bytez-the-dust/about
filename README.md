@@ -114,7 +114,7 @@ Your branch is **your save file**. Next class, use the same nickname and continu
 - 🧙 **Debug Wizard** — fix a bug that looked impossible.
 - 🚀 **Shipped It** — finish a project and show it to the class.
 
-## `08 // DOJO_TERMINAL`
+## `08 // GUILD_TERMINAL`
 
 ```bash
 student@guild:~$ whoami
