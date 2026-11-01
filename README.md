@@ -35,7 +35,7 @@ GUILD:
   mission: Learn to code by building things
   languages: [Python, HTML, CSS, JavaScript]
   difficulty: Beginner -> Advanced
-  teacher: Deni Castro : https://github.com/DeniCastro
+  teacher: [Deni Castro](https://github.com/DeniCastro)
 ```
 
 ## `02 // LEARNING_PATH`
