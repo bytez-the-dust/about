@@ -1,75 +1,81 @@
-# 💾 BYTEZ THE DUST — CODE GUILD
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0b3d2e,100:39d353&height=240&section=header&text=BYTEZ%20THE%20DUST&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=LEARN%20TO%20CODE%20%7C%20FROM%20ZERO%20TO%20HERO&descSize=17&descAlignY=59&animation=fadeIn" alt="Bytez the Dust — Learn to code from zero to hero"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,60:0a1929,100:38bdf8&height=200&section=header&text=Bytez%20the%20Dust&fontSize=52&fontColor=e0f2fe&fontAlignY=40&desc=Learn%20the%20terminal.%20Learn%20to%20code.&descSize=16&descAlignY=62" alt="Bytez the Dust: learn the terminal, learn to code"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&pause=1400&color=39D353&center=true&vCenter=true&width=700&height=45&lines=%3E+BOOTING+CODING+DOJO...;%3E+LOADING+PYTHON%2C+HTML%2C+CSS%2C+JAVASCRIPT;%3E+BUGS+DETECTED%3A+MANY.+PANIC%3A+NONE.;%3E+PRESS+ANY+KEY+TO+START+LEARNING" alt="Terminal introduction"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/LEVEL-BEGINNER%20%E2%86%92%20ADVANCED-39d353?style=for-the-badge&labelColor=101116" alt="Beginner to advanced"/>
-<img src="https://img.shields.io/badge/BUGS-WELCOME-e63946?style=for-the-badge&labelColor=101116" alt="Bugs welcome"/>
-<img src="https://img.shields.io/badge/STATUS-CLASS%20IN%20SESSION-238636?style=for-the-badge&labelColor=101116" alt="Class in session"/>
+<img src="https://img.shields.io/badge/level-basics-38bdf8?style=flat-square&labelColor=000000" alt="Level: basics"/>
+<img src="https://img.shields.io/badge/status-class%20in%20session-0ea5e9?style=flat-square&labelColor=000000" alt="Status: class in session"/>
+<img src="https://img.shields.io/badge/node.js-coming%20soon-334155?style=flat-square&labelColor=000000" alt="Node.js: coming soon"/>
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python, HTML, CSS and JavaScript"/>
+<img src="https://skillicons.dev/icons?i=linux,bash,python,html,css,js&theme=dark" alt="Linux, Bash, Python, HTML, CSS and JavaScript"/>
+
+</div>
+
+<br/>
+
+## About
+
+This is the classroom account. Here you learn the basics of **Python**, **HTML**, **CSS** and **JavaScript**, and get comfortable with the **Linux terminal** along the way.
+
+We start from the very first line and build up one small step at a time. Broken code is just code that is still learning.
+
+```yaml
+guild:
+  name: Bytez the Dust
+  focus: Programming fundamentals
+  languages: [Python, HTML, CSS, JavaScript]
+  environment: Linux terminal + VS Code
+  coming_soon: [Node.js]
+  teacher: Deni Oliveira (github.com/DeniCastro)
+```
+
+---
+
+## Learning path
+
+| Level | Terminal | Python | Web (HTML, CSS, JS) |
+|:---|:---|:---|:---|
+| **1. Newbie** | `pwd`, `ls`, `cd` | Variables, input and output, simple math | HTML structure, text, links, images |
+| **2. Apprentice** | `mkdir`, `touch`, `cat` | Conditions, loops, lists | CSS colors, fonts, box model, Flexbox |
+| **3. Adventurer** | `cp`, `mv`, `rm`, `nano` | Functions, dictionaries, reading files | JavaScript basics, events, the DOM |
+| **4. Knight** | Git: `add`, `commit`, `push` | Small projects, error handling | A small interactive page using all three |
+| **5. Wizard** | Coming soon | Coming soon | **Node.js** (coming soon) |
+
+---
+
+## Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,vscode&theme=dark" alt="Linux, Bash, Git, GitHub and VS Code"/>
 
 </div>
 
 ---
 
-## `01 // WHAT_IS_THIS_PLACE`
+## Terminal cheat sheet
 
-> *Every expert was once a beginner who refused to close the error message.*
+The ten commands that will carry you through most of the course.
 
-This is the **classroom account**.
-Here you learn to build real things with **Python, HTML, CSS and JavaScript**, starting from the very first line and growing step by step to advanced projects.
+| Command | What it does |
+|:---|:---|
+| `pwd` | Shows where you are right now |
+| `ls` | Lists what is inside the current folder |
+| `cd folder` | Moves into a folder (`cd ..` goes back) |
+| `mkdir name` | Creates a new folder |
+| `touch file.txt` | Creates an empty file |
+| `cat file.txt` | Prints a file on the screen |
+| `cp a b` | Copies `a` to `b` |
+| `mv a b` | Moves or renames `a` to `b` |
+| `rm file` | Deletes a file permanently, with no recycle bin |
+| `clear` | Cleans the screen |
 
-No pressure. No shame. Broken code is just code that is still learning. 🐛
+> **Tip:** press `Tab` to auto-complete names and the up arrow to bring back your last command.
 
-```yaml
-GUILD:
-  name: Bytez the Dust
-  mission: Learn to code by building things
-  languages: [Python, HTML, CSS, JavaScript]
-  difficulty: Beginner -> Advanced
-  teacher: [Deni Castro](https://github.com/DeniCastro)
-```
+---
 
-## `02 // LEARNING_PATH`
-
-<div align="center">
-
-| Level | Python 🐍 | Web 🌐 (HTML + CSS + JS) |
-|:---:|---|---|
-| `1` **Newbie** | Variables, input and output, simple math | HTML structure, text, links and images |
-| `2` **Apprentice** | Conditions (`if`), loops, lists | CSS colors, fonts, box model, Flexbox |
-| `3` **Adventurer** | Functions, dictionaries, files | JavaScript basics, events, the DOM |
-| `4` **Knight** | Classes and objects, error handling | Responsive layouts, forms, small web apps |
-| `5` **Wizard** | Modules, APIs, real projects | Async JavaScript, fetch, working with APIs |
-| `6` **Legend** | Testing, clean code, bigger projects | Full projects from idea to deploy |
-
-</div>
-
-## `03 // TECH_ARSENAL`
-
-<div align="center">
-
-**LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js&theme=dark" alt="Python, HTML, CSS and JavaScript"/>
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,bash&theme=dark" alt="Git, GitHub, VS Code and Bash"/>
-
-</div>
-
-## `04 // CLASS_PROTOCOL`
-
-Every class follows the same simple ritual:
+## How a class works
 
 ```bash
 student@dojo:~$ start-class      # pick your nickname, get your own branch
@@ -78,65 +84,51 @@ student@dojo:~$ end-class        # save your work to GitHub and clean the comput
 ```
 
 | Step | What happens |
-|:---:|---|
-| 🟢 **Start** | Run `start-class.bat`, type your nickname and get your own branch |
-| 💻 **Code** | Open the folder in VS Code and solve the exercises |
-| 🔴 **End** | Run `end-class.bat` so your work is saved and the computer is clean for the next student |
+|:---|:---|
+| **Start** | Run `start-class.bat`, type your nickname and get your own branch |
+| **Code** | Open the folder in VS Code and solve the exercises |
+| **End** | Run `end-class.bat` so your work is saved and the computer is clean for the next student |
 
-Your branch is **your save file**. Next class, use the same nickname and continue where you stopped.
+Your branch is your save file. Next class, use the same nickname and continue where you stopped.
 
-## `05 // HOUSE_RULES`
+---
 
-- 🎭 **Nicknames only.** Use something like `blue-fox`, never your real name.
-- 🧹 **Always run `end-class.bat`.** Closing the window is not saving. The computer does not read minds.
-- 🚫 **Do not edit, move or delete the `.bat` files.** Other students need them too.
-- 🤝 **Be kind to other students' work.** Every branch belongs to someone.
-- 🦆 **Explain your problem out loud** to the rubber duck before asking for help. It solves more bugs than you would think.
-- 🐛 **Errors are clues, not enemies.** Read the message. It is usually trying to help.
+## House rules
 
-## `06 // QUEST_BOARD`
+1. **Nicknames only.** Use something like `blue-fox`, never your real name.
+2. **Always run `end-class.bat`.** Closing the window is not saving.
+3. **Do not edit, move or delete the `.bat` files.** Other students need them too.
+4. **Respect other students' work.** Every branch belongs to someone.
+5. **Explain your problem out loud** to a rubber duck before asking for help. It solves more bugs than you would think.
+6. **Errors are clues, not enemies.** Read the message. It is usually trying to help.
 
-| Rank | Quest | Objective |
-|:---:|---|---|
-| `E` | 👋 Hello, World | Make your first program print something on the screen |
-| `D` | 🧱 Build a Page | Create your first web page with HTML and CSS |
-| `C` | 🧠 Think Like a Computer | Master conditions, loops and functions |
-| `B` | ⚡ Make It Alive | Add interactivity to a page with JavaScript |
-| `A` | 🔌 Talk to the World | Use APIs and work with real data |
-| `S` | 🏆 Final Boss Project | Build and ship a complete project of your own |
+---
 
-## `07 // ACHIEVEMENTS_TO_UNLOCK`
+## Milestones
 
-- 🥉 **First Blood** — run your first program without help.
-- 🐞 **Bug Squasher** — find and fix an error all by yourself.
-- 🎨 **Pixel Perfect** — make a page look exactly how you imagined.
-- 🔁 **Loop Master** — write a loop that actually stops.
-- 🧙 **Debug Wizard** — fix a bug that looked impossible.
-- 🚀 **Shipped It** — finish a project and show it to the class.
+| Rank | Milestone | Goal |
+|:---:|:---|:---|
+| `E` | Hello, World | Make your first program print something on the screen |
+| `E` | Find Your Way | Move around folders using only the terminal |
+| `D` | Build a Page | Create your first web page with HTML and CSS |
+| `C` | Think Like a Computer | Use conditions, loops and functions |
+| `B` | Make It Alive | Add interactivity to a page with JavaScript |
+| `A` | Ship It | Finish a small project and show it to the class |
+| `S` | Node.js | Coming soon |
 
-## `08 // GUILD_TERMINAL`
+**Achievements to unlock:** First Blood (run your first program without help), Bug Squasher (fix an error by yourself), Loop Master (write a loop that actually stops), Terminal Native (open a folder without touching the mouse), Debug Wizard (fix a bug that looked impossible).
 
-```bash
-student@guild:~$ whoami
-Future developer (in training)
-
-student@guild:~$ cat motto.txt
-Break things.
-Fix things.
-Understand why.
-
-student@doguild:~$ python --version
-Confidence: loading...
-
-student@guild:~$ _
-```
+---
 
 <div align="center">
 
-### `NO SHORTCUTS. JUST SKILL POINTS.`
+```bash
+student@guild:~$ cat motto.txt
+Break things. Fix things. Understand why.
+```
 
-*Maintained by [Deni Oliveira](https://github.com/DeniCastro) — Code Knight and professional bug herder.*
+<sub>Maintained by <a href="https://github.com/DeniCastro">Deni Oliveira</a></sub>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39d353,100:0d1117&height=120&section=footer" alt="Green and black footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:38bdf8,60:0a1929,100:000000&height=80&section=footer" alt=""/>
 
 </div>
